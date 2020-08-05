@@ -5,3 +5,5 @@ Ce dossier contient le rapport du projet, le dossier im contenant les images tes
 regularisation parameters in high-dimensional inverse problems : an empirical bayesian approach. November 27,
 2019*. en Python, ainsi que la version Matlab du code. 
 
+Site du cours : https://delon.wp.imt.fr/enseignement/mva-modeles-stochastiques/
+
